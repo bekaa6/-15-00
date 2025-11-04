@@ -1,0 +1,8 @@
+Toyota Camry, 15000000
+Hyundai Sonata, 13000000
+Kia K5, 14000000
+BMW 320, 25000000Mercedes S-Class , 45000000
+Mercedes-S class, 45000000
+audi, 1000000
+NISSAN, 1700000
+CAMRY, 2000000
